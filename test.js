@@ -1,3 +1,3 @@
 function testFunction() {}
 
-console.log(testFunction());
+console.log(testFunction())
