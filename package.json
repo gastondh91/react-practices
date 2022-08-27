@@ -1,7 +1,7 @@
 {
-  "name": "react-vite",
-  "private": true,
-  "version": "0.0.0",
+  "name": "react-practices",
+  "author": "Gaston d'Hiriart <gastondh91@gmail.com>",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
